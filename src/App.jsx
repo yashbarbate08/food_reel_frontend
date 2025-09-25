@@ -5,7 +5,7 @@ import UserRegistration from "./pages/auth/UserRegistration";
 import FoodPartnerLogin from "./pages/auth/FoodPartnerLogin";
 import FoodPartnerRegistration from "./pages/auth/FoodPartnerRegistration";
 import Profile from "./pages/food-partner/profile";
-import Saved from "./pages/general/saved";
+import Saved from "./pages/general/Saved";
 
 import Home from "./pages/general/Home";
 
